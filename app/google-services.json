@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "347600105010",
+    "project_id": "solar-catfish-302721",
+    "storage_bucket": "solar-catfish-302721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347600105010:android:03a29ada038c8b656c562b",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347600105010-t0he9ca8j07cg70sampfmrsld6j8kp5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseapp",
+            "certificate_hash": "cde1472c4d29ffffbbb631facaa217c271e10dd7"
+          }
+        },
+        {
+          "client_id": "347600105010-uhock9a4v2mp5urgq5ld09vuhjcc09ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5hC0qX-6dqz4KxZbc3tWANmTeSSPw8tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347600105010-uhock9a4v2mp5urgq5ld09vuhjcc09ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
